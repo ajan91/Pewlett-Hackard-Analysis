@@ -11,22 +11,22 @@
 6. The Retiring Titles table is exported as retiring_titles.csv.
 
 **1. A query is written and executed to create a Retirement Titles table for employees who are born between January 1, 1952 and December 31, 1955.**
-[](Resources/Photo1.1.png)
+![](Resources/Photo1.1.png)
 
 **2. The Retirement Titles table is exported as retirement_titles.csv.**
-[](Resources/Photo2.1.png)
+![](Resources/Photo2.1.png)
 
 **3. A query is written and executed to create a Unique Titles table that contains the employee number, first and last name, and most recent title.**
-[](Resources/Photo3.1.png)
+![](Resources/Photo3.1.png)
 
 **4. The Unique Titles table is exported as unique_titles.csv.**
-[](Resources/Photo4.1.png)
+![](Resources/Photo4.1.png)
 
 **5. A query is written and executed to create a Retiring Titles table that contains the number of titles filled by employees who are retiring.**
-[](Resources/Photo5.1.png)
+![](Resources/Photo5.1.png)
 
 **6. The Retiring Titles table is exported as retiring_titles.csv.**
-[](Resources/Photo6.1.png)
+![](Resources/Photo6.1.png)
 
 
 
@@ -36,10 +36,10 @@
 2. The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv. 
 
 **1. A query is written and executed to create a Mentorship Eligibility table for current employees who were born between January 1, 1965 and December 31, 1965.**
-[](Resources/Photo1.2.png)
+![](Resources/Photo1.2.png)
 
 **2. The Mentorship Eligibility table is exported and saved as mentorship_eligibilty.csv.** 
-[](Resources/Photo2.2.png)
+![](Resources/Photo2.2.png)
 
 # Deliverable 3: A written report on the employee database analysis
 **Deliverable 3 Requirements** 
@@ -63,7 +63,7 @@ There is a bulleted list with four major points from the two analysis deliverabl
 - 4,502 Technique Leader
 - 1,761 Assistant Engineer
         
-[](Resources/Photo2.3.png)
+![](Resources/Photo2.3.png)
 
 
 **3. Summary:**
